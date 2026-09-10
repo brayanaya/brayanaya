@@ -1,27 +1,64 @@
 # Brayan Aya
 
-Estudiante de Ingeniería de Software (8° semestre) en Neiva, Colombia. Empecé del lado de redes y soporte técnico, y terminé programando el sistema que hoy usa el supermercado de mi familia para llevar el inventario — así fue como me metí de lleno al desarrollo.
+**Desarrollador de Software** · Ingeniería de Software (8° semestre) — Neiva, Huila, Colombia
 
-Trabajo sobre todo con `React`, `TypeScript`, `Node.js` y `Supabase`. También manejo `Java`, `C#`, `PHP`, `Python`, `Laravel`, `PostgreSQL`, `MySQL` y `MongoDB` de proyectos anteriores, y sigo cómodo en Linux por mis raíces en redes.
+Construyo aplicaciones web con React, TypeScript, Node.js y Supabase. Vengo del mundo de redes y soporte técnico, así que además de escribir código me interesa cómo se despliega y sostiene en producción.
+
+<br>
+
+## Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,laravel,supabase,java,cs,php,py,postgres,mysql,mongodb,git,linux&theme=dark&perline=8" />
+</p>
 
 <br>
 
 ## Proyectos
 
-**[PlataformaSuper](https://github.com/brayanaya/plataformasuper.git)** — el sistema de gestión que construí para el supermercado de mi familia (Supermercado La Economía Aya). Empezó como una necesidad real del negocio y ahora lo estoy convirtiendo en algo que pueda ofrecer a otros comercios de Neiva.
+### 🛒 [PlataformaSuper](https://github.com/brayanaya/plataformasuper.git)
+Sistema de gestión para supermercados construido para el negocio familiar (Supermercado La Economía Aya), hoy en proceso de convertirse en producto para otros comercios de Neiva.
 
-**Sole Survivor** — un shooter de supervivencia zombie en Unity que desarrollé como proyecto freelance pagado: IA con NavMesh, menú, UI de salud y audio. Aún no está en un repo público.
+`React` `TypeScript` `Vite` `TailwindCSS` `Supabase`
+
+### 🧟 Sole Survivor
+Videojuego 3D de supervivencia zombie desarrollado en Unity como proyecto freelance pagado: IA con NavMesh, menú, UI de salud y audio.
+
+`Unity` `C#`
 
 <br>
 
-## Cómo llegué aquí
+## Experiencia
 
-Gané el primer puesto en el Hackathon FET 2025, y antes de eso pasé un buen tiempo del otro lado del mostrador: atención al cliente, caja y corresponsal bancario en el negocio familiar, mientras aprendía a programar el sistema que terminaría reemplazando parte de ese trabajo manual. Eso me deja pensando tanto en cómo se ve el código como en quién realmente lo va a usar.
+**Desarrollador Freelance** — Proyectos académicos y externos · 2025–Presente
+Desarrollo de aplicaciones web y videojuegos con documentación técnica completa; implementación de algoritmos criptográficos en entornos Linux.
+
+**Colaborador Multifuncional / Asistente Administrativo** — Supermercado La Economía Aya · Ene 2024–Ene 2026
+Atención al cliente, manejo de caja registradora y corresponsal bancario, desarrollo del sistema de inventario del negocio, y coordinación de logística y entregas a domicilio.
+
+<br>
+
+## Educación
+
+- **Ingeniería de Software** — FET · en curso (8° semestre)
+- **Tecnólogo en Desarrollo de Sistemas de Información y Redes** — FET · Graduado
+- **Técnico Profesional en Soporte de Sistemas Informáticos y Redes** — FET · Graduado
+- **Técnico en Programación de Software** — SENA, Regional Huila
+- **Bachiller Técnico**, especialidad Desarrollo de Software — I.E. Técnico Superior de Neiva
+
+<br>
+
+## Logros
+
+🏆 **1er puesto — Hackathon FET 2025**
+Reconocido por calidad, innovación y eficiencia en el desarrollo del proyecto.
 
 <br>
 
 ## Disponibilidad
 
-Ando buscando proyectos freelance o algo part-time en horario de tarde/noche, remoto o presencial en Neiva.
+Abierto a proyectos freelance y trabajo part-time en horario de tarde/noche, remoto o presencial. Si tienes algo en mente, hablemos.
+
+<br>
 
 📧 [ayasteven599@gmail.com](mailto:ayasteven599@gmail.com)
