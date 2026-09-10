@@ -4,9 +4,6 @@
 
 Construyo aplicaciones web con React, TypeScript, Node.js y Supabase. Vengo del mundo de redes y soporte técnico, así que además de escribir código me interesa cómo se despliega y sostiene en producción.
 
-🏆 1er puesto — Hackathon FET 2025
-🌱 Tecnólogo en Desarrollo de Sistemas de Información y Redes (FET) · Técnico en Programación de Software (SENA)
-
 <br>
 
 ## Stack
@@ -25,15 +22,42 @@ Sistema de gestión para supermercados construido para el negocio familiar (Supe
 `React` `TypeScript` `Vite` `TailwindCSS` `Supabase`
 
 ### 🧟 Sole Survivor
-Videojuego 3D de supervivencia zombie desarrollado en Unity como proyecto freelance: IA con NavMesh, menú, UI de salud y audio.
+Videojuego 3D de supervivencia zombie desarrollado en Unity como proyecto freelance pagado: IA con NavMesh, menú, UI de salud y audio.
 
 `Unity` `C#`
 
 <br>
 
-## Ahora mismo
+## Experiencia
 
-Trabajo como freelancer en Upwork y Workana, y estoy abierto a proyectos part-time en horario de tarde/noche. Si tienes algo en mente, hablemos.
+**Desarrollador Freelance** — Proyectos académicos y externos · 2025–Presente
+Desarrollo de aplicaciones web y videojuegos con documentación técnica completa; implementación de algoritmos criptográficos en entornos Linux.
+
+**Colaborador Multifuncional / Asistente Administrativo** — Supermercado La Economía Aya · Ene 2024–Ene 2026
+Atención al cliente, manejo de caja registradora y corresponsal bancario, desarrollo del sistema de inventario del negocio, y coordinación de logística y entregas a domicilio.
+
+<br>
+
+## Educación
+
+- **Ingeniería de Software** — FET · en curso (8° semestre)
+- **Tecnólogo en Desarrollo de Sistemas de Información y Redes** — FET · Graduado
+- **Técnico Profesional en Soporte de Sistemas Informáticos y Redes** — FET · Graduado
+- **Técnico en Programación de Software** — SENA, Regional Huila
+- **Bachiller Técnico**, especialidad Desarrollo de Software — I.E. Técnico Superior de Neiva
+
+<br>
+
+## Logros
+
+🏆 **1er puesto — Hackathon FET 2025**
+Reconocido por calidad, innovación y eficiencia en el desarrollo del proyecto.
+
+<br>
+
+## Disponibilidad
+
+Abierto a proyectos freelance y trabajo part-time en horario de tarde/noche, remoto o presencial. Si tienes algo en mente, hablemos.
 
 <br>
 
